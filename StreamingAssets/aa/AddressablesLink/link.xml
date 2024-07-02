@@ -6,7 +6,7 @@
     <type fullname="ECS.Damageable.Providers.Health" preserve="all" />
     <type fullname="ECS.GameEntities.Providers.Accuracy" preserve="all" />
     <type fullname="ECS.GameEntities.Providers.Automatic" preserve="all" />
-    <type fullname="ECS.GameEntities.Providers.Bullets.EcsBullet" preserve="all" />
+    <type fullname="ECS.GameEntities.Providers.Bullets.BulletComponent" preserve="all" />
     <type fullname="ECS.GameEntities.Providers.EcsCar" preserve="all" />
     <type fullname="ECS.GameEntities.Providers.FOV" preserve="all" />
     <type fullname="ECS.GameEntities.Providers.LifeTime" preserve="all" />
